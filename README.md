@@ -18,4 +18,4 @@
 
 ### Step.2 配置图床仓库基本信息
 
-[2018-07-27.01.18.18-image.png](https://raw.githubusercontent.com/IceEnd/Yosoro-Img/img/yosoro/2018-07-27.01.18.18-image.png)
+![2018-07-27.01.18.18-image.png](https://raw.githubusercontent.com/IceEnd/Yosoro-Img/img/yosoro/2018-07-27.01.18.18-image.png)
